@@ -1,0 +1,31 @@
+.user-panel{
+    height: 60px;
+}
+
+.user-panel>.info{
+    position: relative;
+    left: auto;
+}
+
+.skin-blue .sidebar-menu>li.header{
+    color: #fff;
+}
+
+.swal2-popup{
+    font-size: 1.5rem;
+}
+
+.login-page .main-footer{
+    display: none;
+}
+
+.btn-success{
+    color: #fff !important;
+    background-color: #5cb85c !important;
+    border-color: #4cae4c !important;
+}
+.modal-body{
+    max-height:250px;
+    overflow:auto;
+  }
+

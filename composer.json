@@ -1,0 +1,13 @@
+{
+    "name": "willj/hardshoes",
+    "description": "HardShoes tienda online",
+    "authors": [
+        {
+            "name": "Jean Osco",
+            "email": "willjean29@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-mysqli": "*"
+    }
+}

@@ -1,0 +1,1 @@
+<?php require_once '../app/db_conexion.php'; ?>
