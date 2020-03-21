@@ -8,8 +8,8 @@ session_start();
 
 define('PORT'       ,'7885');
 define('BASEPATH'   , '/cursos/hardshoes/');
-// define('URL'        , 'http://127.0.0.1:'.PORT.BASEPATH);
-define('URL'        , 'https://hardshoesshop.herokuapp.com/');     
+define('URL'        , 'http://127.0.0.1:'.PORT.BASEPATH);
+// define('URL'        , 'https://hardshoesshop.herokuapp.com/');     
 
 
 /**Constante para los paths de archivos */
